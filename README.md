@@ -1,6 +1,8 @@
 # blog_app
 
-A new Flutter project.
+A Flutter Project to learn Full Stack Flutter Development.
+This Application is developed with the guidance of an
+Online Tutorial by the YouTube Channel 'Rivaan Ranawat'
 
 ## Getting Started
 
